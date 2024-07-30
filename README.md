@@ -5,5 +5,5 @@ Deep Learning recommender system
 
 Project Organization
 ------------
-[View Report](reports/report.pdf)
+[View Report](reports/Report.pdf)
 
