@@ -1,7 +1,8 @@
 
 # Recommender system
 
-Welcome to the Deep Learning Recommender project! This repository contains the code and resources for developing and deploying a deep learning-based recommendation system.
+Welcome to the Recommender project! This repository contains the code and resources for developing and deploying a recommendation system. 
+
 [View Report](reports/Report.pdf)
 
 ## Table of Contents
